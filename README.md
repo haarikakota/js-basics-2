@@ -1,0 +1,1 @@
+![Basics of JavaScript 2](./banner.png)
